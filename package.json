@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "Knights Travails",
   "version": "1.0.0",
-  "description": "",
+  "description": "Knights Travails assignmnet from the odin project",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
